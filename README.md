@@ -11,6 +11,7 @@ The `code` folder contains the scripts to reproduce our experiments: In particul
   - `code/training` contains the Google Colab scripts to run the pre-training and the fine-tuning. Note that you need a Pro Goggle Colab account tu succesfully run the scripts (on the TPUs);  
   - `code/cleaning` contains the scripts we used to clean the dataset;
   - `code/generate_mutants` contains all the necessary to generate mutants of given Java methods.
+  - `code/tokenizer` contains the tokenizer model and vocabulary.
 
 
 The `results` folder contains statistical analysis, BLEU score and Levenstein distance of the models predictions.
