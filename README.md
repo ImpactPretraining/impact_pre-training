@@ -11,4 +11,6 @@ The `code` folder contains the scripts to reproduce our experiments: In particul
   - `code/cleaning` contains the scripts we used to clean the dataset;
   - `code/generate_mutants` contains all the necessary to generate mutants of given Java methods.
 
+The `results` folder contains statistical analysis, BLEU score and Levenstein distance of the models predictions.
+
 We stored all the processed data (pre-training datasets and fine-tuning datasets) on Zenodo, available at the following link https://zenodo.org/record/7052859#.YxdNkuxBxlZ
